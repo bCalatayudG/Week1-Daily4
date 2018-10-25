@@ -25,8 +25,8 @@ Spanish language
 German language
 ![alt text][lenDu]
 
-[lenEng]: https://github.com/bCalatayudG/Week1-Daily4/blob/master/AppScreenshots/Screenshot_1540500133.png "English"
-[lenSpa]: https://github.com/bCalatayudG/Week1-Daily4/blob/master/AppScreenshots/Screenshot_1540500299.png "Spanish"
-[lenDu]: https://github.com/bCalatayudG/Week1-Daily4/blob/master/AppScreenshots/Screenshot_1540500081.png "German"
+[lenEng]: https://github.com/bCalatayudG/Week1-Daily4/blob/master/AppScreenshots/English.png "English"
+[lenSpa]: https://github.com/bCalatayudG/Week1-Daily4/blob/master/AppScreenshots/Spanish.png "Spanish"
+[lenDu]: https://github.com/bCalatayudG/Week1-Daily4/blob/master/AppScreenshots/German.png "German"
 
 

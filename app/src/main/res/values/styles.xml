@@ -6,6 +6,7 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
     </style>
 
     <style name="AppTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
@@ -15,16 +16,19 @@
     <style name="Name" parent="Theme.AppCompat.Light.DarkActionBar">
         <item name="android:textColor">@color/nameColor</item>
         <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">monospace</item>
     </style>
     <style name="EducationRight" parent="Theme.AppCompat.Light.DarkActionBar">
         <item name="android:textColor">@color/educationColor1</item>
         <item name="android:textSize">12sp</item>
         <item name="android:gravity">left</item>
+        <item name="android:fontFamily">casual</item>
     </style>
     <style name="EducationLeft" parent="Theme.AppCompat.Light.DarkActionBar">
         <item name="android:textColor">@color/educationColor2</item>
         <item name="android:textSize">15sp</item>
         <item name="android:gravity">right</item>
+        <item name="android:fontFamily">cursive</item>
     </style>
 
 </resources>
