@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Woche 1 - Täglich 4</string>
+    <string name="name">Name: Bernardo Calatayud</string>
+    <string name="location">Lokalisierung: Mexiko Stadt</string>
+    <string name="hobbies">Hobbies: Schwimmen, Tanzen, Wandern, Lesen, Backen, Puzzles,
+        Elektronik sammeln, Computerprogrammierung</string>
+    <string name="education1">Bildung:</string>
+    <string name="College">Nationale Autonome Universität von Mexiko</string>
+    <string name="HighSchool">Mittelschule 6</string>
+    <string name="MiddleSchool">Sac-be Bildungszentrum</string>
+</resources>

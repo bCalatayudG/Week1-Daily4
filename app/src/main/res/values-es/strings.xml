@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Semana 1 - día 4</string>
+    <string name="name">Nombre: Bernardo Calatayud</string>
+    <string name="location">Origen: Ciudad de méxico</string>
+    <string name="hobbies">Pasatiempos: nadar, bailar, hacer caminatas, leer, hornear, rompecabezas,
+        coleccionar aparatos electrónicos, programación de computadoras.</string>
+    <string name="College">Universidad Nacional Autónoma de México</string>
+    <string name="education1">Educación:</string>
+    <string name="HighSchool">High School 6</string>
+    <string name="MiddleSchool">Centro educativo Sac-be</string>
+</resources>
